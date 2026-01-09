@@ -1,6 +1,6 @@
 # Timelapse Menu Bar
 
-I create a lot of timelapses of the night sky, it was getting tedious sorting all the photos from my SD card and then remembering the FFMPEG commands I need every time, so I built this tiny little FFMPEG timelapse generation app to live in the menu bar of my macbook. Feel free to do whatever you'd like with it, hope it helps! 
+I create a lot of timelapses of the night sky, it was getting tedious sorting all the photos from my SD card and then remembering the FFmpeg commands I need every time, so I built this tiny little FFMPEG timelapse generation app to live in the menu bar of my macbook. Feel free to do whatever you'd like with it, hope it helps! 
 
 ![Menu Bar](https://img.shields.io/badge/macOS-Menu%20Bar%20App-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
@@ -107,4 +107,5 @@ This stops the app and removes it from auto-start. Delete the folder to fully re
 ## License
 
 MIT License - feel free to use, modify, and share!
+
 
